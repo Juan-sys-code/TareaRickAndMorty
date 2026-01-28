@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149697280559",
+    "project_id": "rickmortyapp-c3b46",
+    "storage_bucket": "rickmortyapp-c3b46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149697280559:android:90637e1489d437be9f24da",
+        "android_client_info": {
+          "package_name": "com.example.rickmortyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149697280559-srdd81ns7muuttm95ch2j4bpg0j2haff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZ3OPMyyJNU5NboOZsUmIZVLWkRsd2uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149697280559-srdd81ns7muuttm95ch2j4bpg0j2haff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
